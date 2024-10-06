@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Nike Air Force 1",
+      "sizes": [39, 40, 41, 42, 43],
+      "price": 499.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "home",
+      "description": "The Nike Air Force 1 is a classic basketball sneaker that has become a staple in street fashion. With its clean lines, leather upper, and cushioned sole, it offers both style and comfort. The iconic silhouette is perfect for both casual wear and athletic performance, making it a versatile addition to any wardrobe."
+    },
+    {
+      "id": "2",
+      "name": "Adidas Ultraboost",
+      "sizes": [38, 39, 40, 41],
+      "price": 599.99,
+      "image": "/images/Adidas UltraBoost.png",
+      "category": "home",
+      "description": "The Adidas Ultraboost combines technology and style to deliver unmatched comfort. Featuring a responsive Boost midsole and a breathable Primeknit upper, these shoes provide exceptional energy return with every step. Ideal for running, training, or everyday wear, the Ultraboost is designed to adapt to your foot for a snug and supportive fit."
+    },
+    {
+      "id": "3",
+      "name": "Puma RS-X",
+      "sizes": [40, 41, 42],
+      "price": 399.99,
+      "image": "/images/Puma RS-X.webp",
+      "category": "home",
+      "description": "The Puma RS-X is a retro-inspired sneaker that features a bold design and vibrant colorways. Built with lightweight cushioning and a breathable mesh upper, the RS-X is perfect for those who want to make a statement with their footwear. Whether you're on the street or in the gym, this sneaker ensures both style and comfort."
+    },
+    {
+      "id": "4",
+      "name": "Reebok Classic Leather",
+      "sizes": [38, 39, 40],
+      "price": 299.99,
+      "image": "/images/Reebok Classic Leather.webp",
+      "category": "home",
+      "description": "The Reebok Classic Leather is an enduring icon that has been a favorite for decades. Made with soft leather for a premium feel, these sneakers offer durability and timeless style. The padded foam sockliner provides extra comfort, making them perfect for all-day wear, whether you're running errands or heading to the gym."
+    },
+    {
+      "id": "5",
+      "name": "New Balance 990v5",
+      "sizes": [40, 41, 42],
+      "price": 699.99,
+      "image": "/images/New Balance 990v5.webp",
+      "category": "home",
+      "description": "The New Balance 990v5 is a fusion of classic aesthetics and modern technology. Known for its superior cushioning and support, this sneaker is ideal for long runs or casual wear. With a sleek design and a variety of color options, the 990v5 delivers both comfort and style, making it a must-have for any sneaker enthusiast."
+    },
+    {
+      "id": "6",
+      "name": "Saucony Triumph 18",
+      "sizes": [39, 40, 41],
+      "price": 499.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "home",
+      "description": "The Saucony Triumph 18 is engineered for runners who seek a plush ride. Featuring PWRRUN+ cushioning, this shoe offers exceptional comfort and responsiveness, allowing you to run longer without discomfort. Its breathable upper and sleek design ensure a secure fit and a modern look, making it suitable for both performance and casual settings."
+    },
+    {
+      "id": "7",
+      "name": "Hoka One One Clifton 7",
+      "sizes": [38, 39, 40],
+      "price": 699.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "home",
+      "description": "The Hoka One One Clifton 7 is designed for maximum comfort and support. With its lightweight design and plush cushioning, this running shoe is perfect for long-distance runs or casual outings. The engineered mesh upper provides breathability, while the early stage Meta-Rocker technology ensures a smooth transition and responsive feel with each stride."
+    },
+    {
+      "id": "8",
+      "name": "Under Armour Charged Rogue 2",
+      "sizes": [40, 41, 42],
+      "price": 399.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "home",
+      "description": "The Under Armour Charged Rogue 2 is designed for those who value both performance and style. Equipped with a Charged Cushioning midsole, it delivers unparalleled comfort and support. The breathable mesh upper ensures a snug fit, making this shoe perfect for running, training, or casual wear, while its sleek design makes it an attractive choice for any outfit."
+    },
+    {
+      "id": "9",
+      "name": "Asics Gel-Nimbus 23",
+      "sizes": [39, 40, 41],
+      "price": 499.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "home",
+      "description": "The Asics Gel-Nimbus 23 is a premium running shoe that offers exceptional comfort and support. Featuring Gel technology for shock absorption and a breathable mesh upper, this shoe is designed for long runs and high mileage. With its sleek design and superior cushioning, the Gel-Nimbus 23 is a favorite among serious runners."
+    },
+    {
+      "id": "10",
+      "name": "Mizuno Wave Rider 24",
+      "sizes": [40, 41, 42],
+      "price": 549.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "home",
+      "description": "The Mizuno Wave Rider 24 combines performance and style in one sleek package. With its Wave technology, this shoe provides excellent cushioning and support for a smooth ride. The breathable upper ensures comfort during long runs, while its eye-catching design makes it suitable for casual wear, making it a versatile addition to your sneaker collection."
+    },
+    {
+      "id": "16",
+      "name": "Kids' Nike Air Max 270",
+      "sizes": [30, 31, 32, 33],
+      "price": 249.99,
+      "image": "/images/Kids' Nike Air Max 270.png",
+      "category": "kids",
+      "description": "The Kids' Nike Air Max 270 combines style and comfort for young sneaker lovers. Featuring a large Air unit for cushioning, these shoes provide excellent support for growing feet. The lightweight design and breathable materials ensure all-day comfort, making them perfect for playtime or casual outings. Available in fun colorways, they are a must-have for any child."
+    },
+    {
+      "id": "17",
+      "name": "Adidas Superstar Kids",
+      "sizes": [28, 29, 30],
+      "price": 219.99,
+      "image": "/images/Adidas Superstar Kids.png",
+      "category": "kids",
+      "description": "The Adidas Superstar Kids shoe is a mini version of the classic basketball sneaker that has stood the test of time. With its iconic shell toe and sleek design, it provides both style and durability. Made from high-quality materials, these shoes are perfect for active kids, offering comfort and support for everyday adventures."
+    },
+    {
+      "id": "18",
+      "name": "Kids' Puma Future Rider",
+      "sizes": [28, 29, 30, 31],
+      "price": 239.99,
+      "image": "/images/Kids' Puma Future Rider.webp",
+      "category": "kids",
+      "description": "The Kids' Puma Future Rider is a trendy sneaker that brings a fresh look to children's footwear. With its retro design and vibrant color options, these shoes are perfect for kids who want to express their style. The cushioned midsole ensures comfort during playtime, while the durable upper provides the support they need for daily activities."
+    },
+    {
+      "id": "19",
+      "name": "Kids' Adidas Stan Smith",
+      "sizes": [30, 31, 32],
+      "price": 229.99,
+      "image": "/images/Kids' Adidas Stan Smith.webp",
+      "category": "kids",
+      "description": "The Kids' Adidas Stan Smith is a classic sneaker that combines timeless style with modern comfort. Featuring a clean leather upper and a cushioned insole, these shoes are perfect for both school and play. The minimalist design makes them easy to pair with any outfit, ensuring your child stays stylish wherever they go."
+    },
+    {
+      "id": "20",
+      "name": "Kids' New Balance 574",
+      "sizes": [28, 29, 30],
+      "price": 199.99,
+      "image": "/images/Kids' New Balance 574.webp",
+      "category": "kids",
+      "description": "The Kids' New Balance 574 is a versatile sneaker that offers both style and support for growing feet. With its classic design and comfortable fit, these shoes are ideal for daily wear. The cushioned midsole provides excellent support, making them perfect for active kids who are always on the go."
+    },
+    {
+      "id": "31",
+      "name": "Timberland 6-Inch Premium Boots",
+      "sizes": [40, 41, 42, 43],
+      "price": 699.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "winter",
+      "description": "The Timberland 6-Inch Premium Boots are a must-have for anyone facing cold, wet conditions. Known for their rugged durability and classic design, these boots feature waterproof leather uppers and sturdy rubber outsoles for excellent traction. Whether you're hiking or just navigating winter weather, these boots offer comfort and protection, making them perfect for outdoor adventures."
+    },
+    {
+      "id": "32",
+      "name": "North Face Hedgehog Hiker",
+      "sizes": [38, 39, 40, 41],
+      "price": 549.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "winter",
+      "description": "The North Face Hedgehog Hiker is designed for those who enjoy exploring the great outdoors. With a waterproof construction and durable traction outsole, these hiking shoes keep your feet dry and provide stability on uneven terrain. The cushioned midsole offers comfort for long hikes, making them ideal for avid adventurers."
+    },
+    {
+      "id": "33",
+      "name": "Columbia Bugaboot Plus IV Omni-Heat",
+      "sizes": [39, 40, 41, 42],
+      "price": 599.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "winter",
+      "description": "The Columbia Bugaboot Plus IV Omni-Heat boots are perfect for winter conditions. Featuring advanced insulation and a waterproof design, these boots keep your feet warm and dry. The Omni-Grip outsole provides excellent traction on slippery surfaces, making them ideal for outdoor activities in snowy weather."
+    },
+    {
+      "id": "34",
+      "name": "Sorel Caribou Boot",
+      "sizes": [40, 41, 42, 43],
+      "price": 649.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "winter",
+      "description": "The Sorel Caribou Boot is designed for extreme winter conditions. With a waterproof construction and a removable thermal lining, these boots offer warmth and protection against the harshest elements. The vulcanized rubber outsole provides excellent traction on snow and ice, making them a reliable choice for winter adventures."
+    },
+    {
+      "id": "35",
+      "name": "Merrell Thermo Chill Mid Waterproof",
+      "sizes": [39, 40, 41, 42],
+      "price": 499.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "winter",
+      "description": "The Merrell Thermo Chill Mid Waterproof boots are engineered for comfort and performance in cold weather. Featuring waterproof leather and insulation, these boots keep your feet warm and dry. The Vibram outsole provides superior grip on slippery surfaces, making them a great choice for winter hikes and outdoor activities."
+    },
+    {
+      "id": "36",
+      "name": "Kamik Rocket Waterproof Boot",
+      "sizes": [38, 39, 40],
+      "price": 299.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "winter",
+      "description": "The Kamik Rocket Waterproof Boot is a lightweight and durable option for winter wear. With a waterproof construction and an insulated lining, these boots are designed to keep your feet warm and dry in snowy conditions. The rubber outsole provides excellent traction, making them ideal for winter walks and outdoor activities."
+    },
+    {
+      "id": "37",
+      "name": "Bogs Classic High Waterproof",
+      "sizes": [40, 41, 42],
+      "price": 469.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "winter",
+      "description": "The Bogs Classic High Waterproof boots are designed for wet and cold conditions. With a 100% waterproof construction and insulation, these boots keep your feet warm and dry. The slip-resistant outsole ensures stability on icy surfaces, making them perfect for winter activities like snowshoeing or simply walking in the snow."
+    },
+    {
+      "id": "38",
+      "name": "Adidas Terrex Free Hiker",
+      "sizes": [39, 40, 41, 42],
+      "price": 599.99,
+      "image": "/images/Adidas Terrex Free Hiker.png",
+      "category": "winter",
+      "description": "The Adidas Terrex Free Hiker is designed for serious hikers looking for performance and comfort. With a breathable upper and a rugged outsole, these boots provide stability and grip on various terrains. The lightweight design and responsive cushioning ensure comfort on long hikes, making them a great choice for outdoor enthusiasts."
+    },
+    {
+      "id": "39",
+      "name": "L.L.Bean 10-inch Insulated Boot",
+      "sizes": [40, 41, 42, 43],
+      "price": 649.99,
+      "image": "/images/nike-air-force-1.webp",
+      "category": "winter",
+      "description": "The L.L.Bean 10-inch Insulated Boot is a classic choice for winter weather. With a waterproof design and insulation for warmth, these boots are perfect for snowy days. The rubber outsole provides excellent traction, ensuring stability on slippery surfaces. Whether you're shoveling snow or enjoying winter activities, these boots will keep your feet warm and dry."
+    },
+    {
+      "id": "40",
+      "name": "Salomon X Ultra Winter CS Waterproof",
+      "sizes": [39, 40, 41],
+      "price": 579.99,
+      "image": "/images/Salomon X Ultra Winter CS Waterproof.webp",
+      "category": "winter",
+      "description": "The Salomon X Ultra Winter CS Waterproof boots are designed for cold-weather hikes and outdoor adventures. With a waterproof construction and warm insulation, these boots keep your feet comfortable in harsh conditions. The Contagrip outsole ensures superior grip on snowy and icy surfaces, making them a reliable choice for winter exploration."
+    },
+    {
+      "id": "46",
+      "name": "Nike Air Max 1",
+      "sizes": [39, 40, 41, 42, 43],
+      "price": 499.99,
+      "image": "/images/Nike Air Max 1.webp",
+      "category": "bestsellers",
+      "description": "The Nike Air Max 1 is a legendary sneaker that changed the game with its innovative Air cushioning. Featuring a sleek design and premium materials, these shoes provide comfort and style for any occasion. Whether you're hitting the streets or the gym, the Air Max 1 delivers performance and iconic style."
+    },
+    {
+      "id": "47",
+      "name": "Adidas UltraBoost",
+      "sizes": [40, 41, 42],
+      "price": 479.99,
+      "image": "/images/Adidas UltraBoost.png",
+      "category": "bestsellers",
+      "description": "The Adidas UltraBoost is known for its unbeatable comfort and energy return. With a Primeknit upper and Boost midsole, these shoes provide a sock-like fit and responsive cushioning. Perfect for running or casual wear, the UltraBoost combines style with performance, making it a favorite among athletes and sneakerheads alike."
+    },
+    {
+      "id": "48",
+      "name": "Puma RS-X",
+      "sizes": [40, 41, 42],
+      "price": 479.99,
+      "image": "/images/Puma RS-X.webp",
+      "category": "bestsellers",
+      "description": "The Puma RS-X is a bold and dynamic sneaker that stands out with its vibrant colors and retro vibes. Built with lightweight cushioning and a supportive upper, these shoes provide comfort and style for everyday wear. Ideal for fashion-forward individuals, the RS-X adds a unique touch to any outfit."
+    },
+    {
+      "id": "49",
+      "name": "New Balance 574",
+      "sizes": [40, 41, 42],
+      "price": 479.99,
+      "image": "/images/New Balance 574.png",
+      "category": "bestsellers",
+      "description": "The New Balance 574 is a classic sneaker that offers both style and comfort. With a retro design and durable materials, these shoes are perfect for everyday wear. The cushioned midsole provides excellent support, making them ideal for walking or casual outings, ensuring you stay stylish and comfortable all day long."
+    },
+    {
+      "id": "50",
+      "name": "Asics Gel-Lyte III",
+      "sizes": [40, 41, 42],
+      "price": 479.99,
+      "image": "/images/Asics Gel-Lyte III.webp",
+      "category": "bestsellers",
+      "description": "The Asics Gel-Lyte III is a retro running shoe that has made a comeback in street fashion. With its unique split tongue and classic design, these shoes offer a comfortable fit and timeless appeal. The Gel cushioning provides shock absorption, making them ideal for both running and casual wear, ensuring you stay stylish on any occasion."
+    }
+  ]
+}
