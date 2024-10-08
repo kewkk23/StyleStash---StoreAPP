@@ -19,7 +19,7 @@ const Footer = () => {
                 <div className='flex flex-col justify-center items-center lg:justify-start lg:items-start'>
                     <h3 className='font-bold text-xl'>Others</h3>
                     <Link to={'/'}>terms of use</Link>
-                    <Link to={'https://github.com/kewkk23'} target='_blank'>Website powerd by Kewin Kulas</Link>
+                    <Link to={'https://github.com/kewkk23'} target='_blank'>Website power by Kewin Kulas</Link>
                 </div>
             </div>
         </footer>
