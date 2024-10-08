@@ -6,7 +6,7 @@ import ProductPage from './_components/ProductPage';
 import WinterPage from './_components/WinterPage';
 import './App.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import { CartProvider } from './context/CartContext'; // Importuj CartProvider
+import { CartProvider } from './context/CartContext'; 
 import CheckoutPage from './_components/CheckoutPage';
 import SuccessPage from './_components/SuccessPage';
 import Contact from './_components/Contact';
