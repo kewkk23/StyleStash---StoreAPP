@@ -30,7 +30,7 @@ const KidsPage = () => {
                             </div>
                         </div>
                         <div className='w-full lg:w-[40%] xl:w-1/4'>
-                            <img className=' w-full ' src={kid} alt="kid" />
+                            <img className=' w-full' src={kid} alt="kid" />
                         </div>
                     </div>
                 </div>

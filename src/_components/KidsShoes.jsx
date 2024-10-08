@@ -8,7 +8,7 @@ const KidsShoes = ({ kidsShoes }) => {
                 {kidsShoes.map((item) => (
                     <div key={item.id} className='w-full md:w-1/3 lg:w-1/4 flex flex-col hover:shadow-lg p-3 transition-all'>
                         <Link to={'/product/' + item.id}>
-                            <img className='w-full max-h-40' src={item.image} alt={item.name} />
+                            <img className='w-full object-cover max-h-40' src={item.image} alt={item.name} />
                             <p className='font-bold'>{item.name}</p>
                             <p>{item.price} zł</p>
                         </Link>

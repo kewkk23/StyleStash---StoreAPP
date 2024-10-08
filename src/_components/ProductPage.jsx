@@ -54,8 +54,8 @@ const ProductPage = () => {
         <section className='w-full mt-3 h-auto lg:h-[80vh] flex justify-center items-center'>
             <div className='w-full lg:w-11/12 xl:w-[60%] p-3 lg:p-0 flex flex-col items-center'>
                 <div className='w-full flex flex-col lg:flex-row justify-evenly items-center'>
-                    <div className='w-full lg:w-1/2 border'>
-                        <img src={shoe.image} alt={shoe.name} />
+                    <div className='w-full lg:w-1/2 h-[300px] border flex justify-center items-center'>
+                        <img className='w-full max-h-full object-contain' src={shoe.image} alt={shoe.name} />
                     </div>
                     <div className='w-full lg:w-1/3 flex flex-col items-center gap-3'>
                         <h2 className='font-bold text-3xl text-center'>{shoe.name}</h2>
